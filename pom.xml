@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Risk_Assessment_Appplication_microservices</artifactId>
+	<artifactId>LPS_Appplication_microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>LpsAppplication</name>
-	<description>Convrting risk assessment apploication to microservices</description>
+	<description>LPS_Appplication_microservice</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -125,7 +125,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>Lps Application</finalName>
+		<finalName>LpsApplication</finalName>
 
 	</build>
 
